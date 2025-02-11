@@ -26,5 +26,7 @@ I’m passionate about **web development, AI integration, and full-stack project
 ---
 
 ### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiv101&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiv101&layout=compact&theme=dark&cache_seconds=86400)
+
+
 
