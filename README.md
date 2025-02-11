@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aditi!  
 <h2 align="center"> Welcome to My Profile! </h2>
-### 🚀 Web Developer | AI Enthusiast | UX Designer  
+<h3>🚀 Web Developer | AI Enthusiast | UX Designer  </h3>
 
 I’m passionate about **web development, AI integration, and full-stack projects**. Always looking to **collaborate** on innovative ideas!  
 
