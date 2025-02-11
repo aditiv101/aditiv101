@@ -1,10 +1,34 @@
--  Hi, I’m @aditiv101 👋
--  I’m interested in WEB PAGE CREATION AND INNOVATIVE PROJECTS 👀
--  I’m currently learning DSA 🌱
--  I’m looking to collaborate on projects based on AI integration and full stack development
--  How to reach me aditivasudevan25@gmail.com 📫
+# 👋 Hi, I’m Aditi!  
+### 🚀 Web Developer | AI Enthusiast | UX Designer  
 
-<!---
-aditiv101/aditiv101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about **web development, AI integration, and full-stack projects**. Always looking to **collaborate** on innovative ideas!  
+
+🌱 **Currently Learning** → Data Structures & Algorithms (DSA)  
+💡 **Interests** → AI, Full-Stack Dev, UX/UI Design  
+📫 **Reach Me At** → [aditivasudevan25@gmail.com](mailto:aditivasudevan25@gmail.com)  
+
+---
+
+## 📌 **Top Projects**  
+🔹 **[HiveGram](https://github.com/aditiv101/HiveGram-)** → A social media platform blending Instagram & Bumble  
+🔹 **[Resume Extractor](https://github.com/aditiv101/resume-extractor)** → AI-powered tool to extract details from resumes  
+🔹 **[Quantum Computing](https://github.com/aditiv101/quantum-computing)** → Research-based quantum computing project  
+
+
+---
+
+## 🔗 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-vasudevan-6072a024b/) 
+
+---
+
+## 📊 **GitHub Stats**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditiv101&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiv101&layout=compact&theme=dark)  
+
+---
+
+### 🎨 **Figma UX Design**  
+- **HiveGram UX** → [Download Figma File](https://github.com/aditiv101/HiveGram-/blob/main/HiveGram_UX.fig)  
+
+---
