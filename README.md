@@ -23,7 +23,7 @@ I’m passionate about **web development, AI integration, and full-stack project
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=aditiv101&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditiv101&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditiv101&layout=compact&theme=dark)  
 
 ---
